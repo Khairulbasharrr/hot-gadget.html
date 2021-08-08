@@ -39,3 +39,10 @@
         color:white;
         background-color: lightslategrey;
     }
+    .card {
+        box-shadow: 10px 10px  20px darkslategray;
+        border-radius: 5px;
+      
+
+    }
+   
